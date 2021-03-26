@@ -3,3 +3,6 @@ git status    // xem danh sach file
 git add . tenfile     // add 1 hoac all
 git commit -m "comment here"
 git log // xem danh sach log
+
+git remote add origin [linkGit]
+git push [-u] origin master   // day len git lan dau
