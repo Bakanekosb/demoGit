@@ -6,3 +6,4 @@ git log // xem danh sach log
 
 git remote add origin [linkGit]
 git push [-u] origin master   // day len git lan dau
+git push origin master   // day len git
